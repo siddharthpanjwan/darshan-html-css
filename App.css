@@ -1,0 +1,26 @@
+* {
+  color: green;
+  margin: 0;
+}
+body {
+  background: lightyellow;
+}
+.container {
+  margin-top: 25px;
+  display: flex;
+}
+ul {
+  margin-right: 30px;
+}
+li {
+  width: 120px;
+  list-style-type: none;
+  background: white;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-right: 20px black solid;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
